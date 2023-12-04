@@ -18,11 +18,11 @@ The essence of this project is the construction of a data warehouse, embodying a
 
 ### Files in the Repository
 - **Data Extraction**
-  - [NYC_Collision_data (1).py](./NYC_Collision_data%20(1).py): Python script for extracting the collision data from the NYC dataset.
-- **Data Loading**
-  - [NYC_Collision_data.py](./NYC_Collision_data.py): Python script for loading the extracted data into a suitable format for analysis.
+  - [Data Extraction NYC Collision Data Script](./Data%20Extraction%20NYC_Collision_data%20(1).py): Python script for extracting the collision data from the NYC dataset.
 - **Data Transformation**
   - [Data Transformation NYC Collision Data Script](./Data%20Transformation%20NYC_Collision_data%20(1).py): Python script for transforming the loaded data for analytical purposes.
+- **Data Loading**
+  - - [Data Loading NYC Collision Data Script](./Data%20Loading%20NYC_Collision_data.py): Python script for loading the extracted data into a suitable format for analysis.
 - **Dimensional Modeling**
   - [Dimensional Modeling.png](./Dimensional%20Modeling.png): Image file illustrating the dimensional modeling used in this project.
   - Data Transformation NYC_Collision_data (1).py
