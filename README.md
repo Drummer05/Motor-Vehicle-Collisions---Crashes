@@ -5,16 +5,15 @@
 ### Introduction
 This project leverages the "Motor Vehicle Collisions - Crashes" dataset provided by the City of New York, which offers comprehensive insights into traffic-related incidents across New York City. The dataset includes detailed information on various aspects of motor vehicle collisions, such as dates and times of incidents, locations, types of vehicles involved, contributing factors, and the statistics on injuries and fatalities. It's available for public access [here](https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95).
 
-To access the data dictionary: 
-
-- [Data Extraction NYC Collision Data Script](./Data%20Extraction%20NYC_Collision_data%20(1).py)
-- [Data Loading NYC Collision Data Script](./Data%20Loading%20NYC_Collision_data.py)
-
-
 Updated daily, this dataset underscores New York City's commitment to road safety and data transparency. It serves as an essential tool for understanding traffic patterns, identifying high-risk zones, and developing strategies to improve road safety. The objective of our project is to analyze this dataset to identify trends, gain insights, and propose potential solutions to mitigate traffic-related incidents in New York City.
+
+To access the data dictionary:[Data Dictionary](https://docs.google.com/spreadsheets/d/1wpSyFV4l6buYbJLw9VdQ2wDpVaEHRzUmPSIdX4RFfrE/edit#gid=0)
 
 ### Project Overview
 The essence of this project is the construction of a data warehouse, embodying a thorough approach to data management from acquisition to visualization. It encompasses the entire spectrum of data processes: collection, storage, transformation, and presentation. This initiative demands a combination of technical skills in data handling and a deep understanding of data architecture and visualization techniques.
+
+For additional information: [Project Requirements](https://docs.google.com/document/d/1_kOnDBnnz1eypVWkyvQCl2P9orBKbbJV1yRB0RdKzTI/edit)
+
 
 ### Files in the Repository
 - **Data Extraction**
