@@ -5,10 +5,11 @@
 ### Introduction
 This project leverages the "Motor Vehicle Collisions - Crashes" dataset provided by the City of New York, which offers comprehensive insights into traffic-related incidents across New York City. The dataset includes detailed information on various aspects of motor vehicle collisions, such as dates and times of incidents, locations, types of vehicles involved, contributing factors, and the statistics on injuries and fatalities. It's available for public access [here](https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95).
 
-[Data Transformation NYC Collision Data Script](./Data%20Transformation%20NYC_Collision_data%20(1).py)
-
-
 To access the data dictionary: 
+
+- [Data Extraction NYC Collision Data Script](./Data%20Extraction%20NYC_Collision_data%20(1).py)
+- [Data Loading NYC Collision Data Script](./Data%20Loading%20NYC_Collision_data.py)
+
 
 Updated daily, this dataset underscores New York City's commitment to road safety and data transparency. It serves as an essential tool for understanding traffic patterns, identifying high-risk zones, and developing strategies to improve road safety. The objective of our project is to analyze this dataset to identify trends, gain insights, and propose potential solutions to mitigate traffic-related incidents in New York City.
 
@@ -21,7 +22,7 @@ The essence of this project is the construction of a data warehouse, embodying a
 - **Data Loading**
   - [NYC_Collision_data.py](./NYC_Collision_data.py): Python script for loading the extracted data into a suitable format for analysis.
 - **Data Transformation**
-  - [Data Transformation NYC Collision Data Script](./Data%20Transformation%20NYC_Collision_data%20(1).py) Python script for transforming the loaded data for analytical purposes.
+  - [Data Transformation NYC Collision Data Script](./Data%20Transformation%20NYC_Collision_data%20(1).py): Python script for transforming the loaded data for analytical purposes.
 - **Dimensional Modeling**
   - [Dimensional Modeling.png](./Dimensional%20Modeling.png): Image file illustrating the dimensional modeling used in this project.
   - Data Transformation NYC_Collision_data (1).py
