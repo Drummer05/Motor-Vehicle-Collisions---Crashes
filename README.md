@@ -12,8 +12,7 @@ To access the data dictionary:[Data Dictionary](https://docs.google.com/spreadsh
 ### Project Overview
 The essence of this project is the construction of a data warehouse, embodying a thorough approach to data management from acquisition to visualization. It encompasses the entire spectrum of data processes: collection, storage, transformation, and presentation. This initiative demands a combination of technical skills in data handling and a deep understanding of data architecture and visualization techniques.
 
-For additional information: [Project Requirements](https://docs.google.com/document/d/1_kOnDBnnz1eypVWkyvQCl2P9orBKbbJV1yRB0RdKzTI/edit)
-
+For additional details about the project requirements, please view the [Project Requirement Document](https://docs.google.com/document/d/1_kOnDBnnz1eypVWkyvQCl2P9orBKbbJV1yRB0RdKzTI/edit).
 
 ### Files in the Repository
 - **Data Extraction**
@@ -25,8 +24,6 @@ For additional information: [Project Requirements](https://docs.google.com/docum
 - **Dimensional Modeling**
   - [Dimensional Modeling.png](./Dimensional%20Modeling.png): Image file illustrating the dimensional modeling used in this project.
   - Data Transformation NYC_Collision_data (1).py
-
-For additional details about the project requirements, please view the [Project Requirement Document](https://docs.google.com/document/d/1_kOnDBnnz1eypVWkyvQCl2P9orBKbbJV1yRB0RdKzTI/edit).
 
 ### Stakeholder Requirements
 The project's main stakeholder, Professor Jefferson Bien-Aime, has outlined specific requirements for a dashboard to glean insights into vehicle and motor crashes in New York City. The dashboard aims to answer the following questions:
