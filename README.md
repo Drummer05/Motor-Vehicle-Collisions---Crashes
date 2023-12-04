@@ -18,7 +18,7 @@ The essence of this project is the construction of a data warehouse, embodying a
 - **Data Loading**
   - [NYC_Collision_data.py](./NYC_Collision_data.py): Python script for loading the extracted data into a suitable format for analysis.
 - **Data Transformation**
-  - [NYC_Collision_data (1).py](./NYC_Collision_data%20(1).py): Python script for transforming the loaded data for analytical purposes.
+  - [NYC_Collision_data (1).py](./NYC_Collision_data(1).py): Python script for transforming the loaded data for analytical purposes.
 - **Dimensional Modeling**
   - [Dimensional Modeling.png](./Dimensional%20Modeling.png): Image file illustrating the dimensional modeling used in this project.
   - Data Transformation NYC_Collision_data (1).py
