@@ -50,6 +50,5 @@ The project's main stakeholder, Professor Jefferson Bien-Aime, has outlined spec
   - - [Data Loading NYC Collision Data Script](./Data%20Loading%20NYC_Collision_data.py): Python script for loading the extracted data into a suitable format for analysis.
 - **Dimensional Modeling**
   - [Dimensional Modeling.png](./Dimensional%20Modeling.png): Image file illustrating the dimensional modeling used in this project.
-  - Data Transformation NYC_Collision_data (1).py
-
+ 
 The creation of a Tableau dashboard will facilitate the visualization and analysis of these metrics.
