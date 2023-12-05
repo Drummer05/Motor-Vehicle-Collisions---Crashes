@@ -2,6 +2,11 @@
 
 ## Project Background
 
+The goal is to develop a data pipeline following the architecture below. We looked at Motor Vehicle Collisions data.
+
+![image](https://github.com/Drummer05/Motor-Vehicle-Collisions---Crashes/assets/144565034/4acaa491-2801-4eb1-9853-aa4b34c7d469)
+
+
 ### Introduction
 This project leverages the "Motor Vehicle Collisions - Crashes" dataset provided by the City of New York, which offers comprehensive insights into traffic-related incidents across New York City. The dataset includes detailed information on various aspects of motor vehicle collisions, such as dates and times of incidents, locations, types of vehicles involved, contributing factors, and the statistics on injuries and fatalities. It's available for public access [here](https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95).
 
