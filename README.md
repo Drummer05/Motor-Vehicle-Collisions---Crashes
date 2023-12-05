@@ -32,7 +32,7 @@ The project's main stakeholder, Professor Jefferson Bien-Aime, has outlined spec
 - Total Number of Fatalities
 - Total Number of Accidents
 
-#### Project Structure
+### Project Structure
 
 1. **Gather Requirements:** Gather the neccesary requirements to solve the problem.
 2. **Understand the Data:** Get familiarize with the datasets. Understand the columns.
