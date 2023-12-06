@@ -52,4 +52,5 @@ The project's main stakeholder, Professor Jefferson Bien-Aime, has outlined spec
   - [Dimensional Modeling.png](./Dimensional%20Modeling.png): Image file illustrating the dimensional modeling used in this project.
  
 ### Findings
+- Take a look at the google slides I created for my presentation: https://docs.google.com/presentation/d/1Bug3LVEJVwqSU6t1LE6cIR9KoCxHrfukiBJD2aEk3Pk/edit?usp=sharing
 - Take a look at the Motor Vehicle Collisions - Crashes Dashboard: https://public.tableau.com/app/profile/carlos.silveio/viz/MotorVehicleCollisions-CrashesDashboard/FinalDashboard?publish=yes
