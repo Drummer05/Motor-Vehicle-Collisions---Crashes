@@ -51,4 +51,5 @@ The project's main stakeholder, Professor Jefferson Bien-Aime, has outlined spec
 - **Dimensional Modeling**
   - [Dimensional Modeling.png](./Dimensional%20Modeling.png): Image file illustrating the dimensional modeling used in this project.
  
-The creation of a Tableau dashboard will facilitate the visualization and analysis of these metrics.
+### Findings
+- Take a look at the Motor Vehicle Collisions - Crashes Dashboard: https://public.tableau.com/app/profile/carlos.silveio/viz/MotorVehicleCollisions-CrashesDashboard/FinalDashboard?publish=yes
